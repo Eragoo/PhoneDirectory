@@ -1,0 +1,7 @@
+version: "3.8"
+services:
+  phone-directory:
+    build: .
+    container_name: phone-director
+    ports:
+      - 8080:8080
