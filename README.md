@@ -1,23 +1,23 @@
 # Phone directory
 My simple project for university
-##Run
+## Run
 ```docker-compose up```
 
 Add ```-d``` flag for detached run
 
-##Testing
+## Testing
  Swagger UI link:
 
  ```localhost:8080/swagger-ui.html```
  
-##Tech:
+## Tech:
  <li> Java 11
  <li> Spring boot
  <li> Swagger
  <li> h2 db
  <li> Hibernate
 
-##Functionality
+## Functionality
 
 <li> CRUD for Person with filtration by name, surname, phone
 <li> CRUD for Phone with filtration by all fields
